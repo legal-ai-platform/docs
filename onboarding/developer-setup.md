@@ -1,4 +1,3 @@
-```md
 # Developer Setup Guide
 
 ## Prerequisites
@@ -15,4 +14,3 @@
 gh repo clone ai-law-firm/frontend
 gh repo clone ai-law-firm/backend
 gh repo clone ai-law-firm/ai-engine  # or use mock for MVP
-```
